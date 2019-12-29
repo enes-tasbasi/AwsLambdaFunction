@@ -1,0 +1,14 @@
+src\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+src\TestUtils$1.class
+src\TestUtils$DateTimeDeserializer.class
+src\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+src\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+src\TestContext$1.class
+src\TestUtils$DynamodbEventMixin$RecordMixin.class
+src\TestUtils$DynamodbEventMixin.class
+src\TestContext.class
+src\TestUtils$DateTimeSerializer.class
+src\TestContext$TestLogger.class
+src\TestUtils.class
+src\LambdaFunctionHandlerTest.class
+src\TestUtils$TestJacksonMapperModule.class
