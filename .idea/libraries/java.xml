@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../aws-java-cognito-sdk/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../aws-java-cognito-sdk/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
